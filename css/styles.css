@@ -1,3 +1,7 @@
+:root {
+  --accent-color: #fd9222;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
 }
@@ -42,7 +46,7 @@ address {
 }
 
 .title-accent {
-  color: #fd9222;
+  color: var(--accent-color);
 }
 
 .menu-link {
@@ -84,7 +88,7 @@ address {
 }
 
 .hero-primary-btn:is(:hover, :focus) {
-  color: #fd9222;
+  color: var(--accent-color);
 }
 
 .hero-secondary-btn {
