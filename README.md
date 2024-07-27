@@ -30,11 +30,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/simply-chocolate.git
+    git clone https://github.com/mikk1max/goit-fs-110-gpage.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd simply-chocolate
+    cd goit-fs-110-gpage
     ```
 3. **Run VS Code to edit the project**:
     ```bash
@@ -55,7 +55,7 @@ Alternatively, you can use a local server to view the project:
 
 Maksym Shepeta - [maksim.shepeta@gmail.com](mailto:maksim.shepeta@gmail.com)
 
-Project Link: [https://github.com/your-username/simply-chocolate](https://github.com/your-username/simply-chocolate)
+Project Link: [https://github.com/mikk1max/simply-chocolate](https://github.com/mikk1max/goit-fs-110-gpage.git)
 
 ---
 
